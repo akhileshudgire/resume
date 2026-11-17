@@ -1,2 +1,1 @@
-# resume
-This is my personal resume website. In the HTML module I built the structure of the page, and in this project I used CSS to style it. 
+Personal resume website for Akhilesh Udgire. Built with HTML and CSS, with a sticky navigation bar, a grid-based hero, an education timeline and course cards.
